@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 <!--통계(별표, 커밋, 풀)-->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yhb0907&show_icons=true&theme=radical)
 <!--가장 많이 사용하는 언어-->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yhb0907&layout=compact)
+<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yhb0907&layout=compact)-->
 
 <h4 align="center">✨ Tech Stack ฅ՞•ﻌ•՞ฅ ✨</h4>
 <div align="center">
