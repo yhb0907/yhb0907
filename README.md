@@ -15,11 +15,15 @@ Here are some ideas to get you started:
 -->
 
 <!--제목-->
+<div align="center">
 ![header](https://capsule-render.vercel.app/api?type=cylinder&color=FB7DA8&height=300&section=header&text=Byeol's%20Github!&fontColor=058CD7&fontSize=100&animation=blink&stroke=111111&strokeWidth=2.4&fontAlignY=60&desc=Welcome%20to&descSize=60&descAlignY=30)
-</br></br>
+</div>
 
 <!--통계(별표, 커밋, 풀)-->
+<div align="center">
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yhb0907&show_icons=true&theme=radical)
+</div>
+
 <!--가장 많이 사용하는 언어-->
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yhb0907&layout=compact)-->
 
