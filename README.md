@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ![header](https://capsule-render.vercel.app/api?type=cylinder&color=FB7DA8&height=300&section=header&text=Byeol's%20Github!&fontColor=058CD7&fontSize=100&animation=blink&stroke=111111&strokeWidth=2.4&fontAlignY=60&desc=Welcome%20to&descSize=60&descAlignY=30)
 
 <!--통계(별표, 커밋, 풀)-->
-[![yhb0907's github stats](https://github-readme-stats.vercel.app/api?username=yhb0907&show_icons=true&theme=tokyonight)](https://github.com/yhb0907/github-readme-stats)&nbsp;&nbsp;
+[![yhb0907's github stats](https://github-readme-stats.vercel.app/api?username=yhb0907&show_icons=true&theme=tokyonight)&nbsp;&nbsp;
 [![yhb0907](https://github-readme-stats.vercel.app/api/top-langs/?username=yhb0907&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact&theme=tokyonight)](https://github.com/yhb0907)
 
 <!--가장 많이 사용하는 언어-->
