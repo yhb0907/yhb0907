@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/pandas-20232a.svg?style=for-the-badge&logo=pandas&logoColor=150458" />
 <img src="https://img.shields.io/badge/numpy-20232a.svg?style=for-the-badge&logo=numpy&logoColor=013243" />
 <img src="https://img.shields.io/badge/matplotlib-20232a.svg?style=for-the-badge&logo=matplotlib&logoColor=105773" />
-<img src="https://img.shields.io/badgejupyter-20232a.svg?style=for-the-badge&logo=jupyterb&logoColor=F37626" />
+<img src="https://img.shields.io/badge/jupyter-20232a.svg?style=for-the-badge&logo=jupyterb&logoColor=F37626" /></br>
 <img src="https://img.shields.io/badge/spring-20232a.svg?style=for-the-badge&logo=spring&logoColor=6DB33F" />
 <img src="https://img.shields.io/badge/springboot-20232a.svg?style=for-the-badge&logo=springboot&logoColor=6DB33F" />
 <img src="https://img.shields.io/badge/HTML5-20232a.svg?style=for-the-badge&logo=HTML5&logoColor=E34F26" />
